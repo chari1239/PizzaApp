@@ -1,6 +1,5 @@
 package factory;
 
-import pizzas.BasePizza;
 import pizzas.ChickenPizza;
 import pizzas.Pizza;
 import pizzas.VegPizza;
